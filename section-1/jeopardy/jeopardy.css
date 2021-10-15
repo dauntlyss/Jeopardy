@@ -30,6 +30,7 @@ th {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
   height: 4em;
+  text-shadow: darkgoldenrod 1px 1px;
 }
 
 td {
